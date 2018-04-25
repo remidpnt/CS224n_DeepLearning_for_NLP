@@ -31,3 +31,4 @@ You will also need to replace:
 to
 `tf.contrib.rnn.core_rnn_cell.RNNCell`
 in files `q2_gru_cell.py` and `q2_rnn_cell.py`.
+
