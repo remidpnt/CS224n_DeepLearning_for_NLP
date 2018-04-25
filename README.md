@@ -1,0 +1,34 @@
+# Assignments CS224n: Natural Language Processing with Deep Learning
+
+
+These files are my solution for the CS224n course from Stanford University 2017. \n
+http://web.stanford.edu/class/cs224n/
+
+### Installation
+
+I used python 2.7 to run these files, with Anaconda.
+
+Please note that if you have a gpu, you should install tensorflow-gpu to save time (especialy for assignment 2)
+
+cd /path/to/assignmentX/
+
+pip install -r requirements.txt
+
+
+### Assignment 3 on Windown Tensorflow:
+In these case, you will need python 3. Please:
+
+replace line 105 from `data_util.py` to:
+```python
+with open(os.path.join(path, "features.pkl"), "wb") as f:
+```
+(Just add a `b` to avoid) _"write() argument must be str not bytes"_ error
+Also replace line 113 by:
+```python
+with open(os.path.join(path, "features.pkl"), "rb") as f:
+```
+You will also need to replace:
+`tf.nn.rnn_cell.RNNCell`
+to
+`tf.contrib.rnn.core_rnn_cell.RNNCell`
+in files `q2_gru_cell.py` and `q2_rnn_cell.py`.
