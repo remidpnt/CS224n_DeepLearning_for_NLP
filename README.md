@@ -7,7 +7,7 @@ http://web.stanford.edu/class/cs224n/
 ### Installation
 
 I used python 2.7 to run these files, with Anaconda.
-Please note that if you have a gpu, you should install tensorflow-gpu to save time (especialy for assignment 2). Make sure you have download the dataset before you run the files.
+Please note that if you have a gpu, you should install tensorflow-gpu to save time (especially for assignment 2). Make sure you have downloaded the dataset before you run the files.
 
 cd /path/to/assignmentX/
 
