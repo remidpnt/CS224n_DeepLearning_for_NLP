@@ -1,21 +1,20 @@
 # Assignments CS224n: Natural Language Processing with Deep Learning
 
 
-These files are my solution for the CS224n course from Stanford University 2017. \n
+These files are my solution for the CS224n course from Stanford University 2017.
 http://web.stanford.edu/class/cs224n/
 
 ### Installation
 
 I used python 2.7 to run these files, with Anaconda.
-
-Please note that if you have a gpu, you should install tensorflow-gpu to save time (especialy for assignment 2)
+Please note that if you have a gpu, you should install tensorflow-gpu to save time (especialy for assignment 2). Make sure you have download the dataset before you run the files.
 
 cd /path/to/assignmentX/
 
 pip install -r requirements.txt
 
 
-### Assignment 3 on Windown Tensorflow:
+### Assignment 3, if you use Windows
 In these case, you will need python 3. Please:
 
 replace line 105 from `data_util.py` to:
