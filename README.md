@@ -18,7 +18,7 @@ These assignments are related to neural networks application for Natural languag
 
 ![alt text](https://github.com/remidpnt/CS224n_DeepLearning_for_NLP/blob/master/dependency.png)
 
-Fig1: dependency tree for this sentence
+*Fig1: dependency tree for this sentence*
 
 ### Installation to run these python programs
 
