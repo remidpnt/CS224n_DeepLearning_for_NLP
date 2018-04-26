@@ -11,10 +11,11 @@ These assignments are related to neural networks application for Natural languag
 
   * **First assignment code:** As an introduction, we will implement some basic functions to run a neural network. We will then use theses functions to produce some GloVe vector to encode some words to vectors using their context in a corpus.
   * **Second assignment code:** In this assignment, we will use a neural network to run a dependency parser (see fig 1 below). Having dependency allow us to use more complex NLP model, such as Tree LSTM
-
+  * **Second assignment code:** In this assignment, we will use a neural network to run a dependency parser (see fig 1 below). Having dependency allow us to use more complex NLP model, such as Tree LSTM
 
 
 ![alt text](https://github.com/remidpnt/CS224n_DeepLearning_for_NLP/blob/master/dependency.png)
+
 Fig1: dependency tree for this sentence
 
 ### Installation to run these python programs
