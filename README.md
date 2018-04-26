@@ -4,6 +4,13 @@
 These files are my solution for the CS224n course from Stanford University 2017.
 http://web.stanford.edu/class/cs224n/
 
+
+### Overview
+
+These assignments are related to neural networks application for Natural language processing.
+
+  * Je teste
+ 
 ### Installation
 
 I used python 2.7 to run these files, with Anaconda.
@@ -31,4 +38,3 @@ You will also need to replace:
 to
 `tf.contrib.rnn.core_rnn_cell.RNNCell`
 in files `q2_gru_cell.py` and `q2_rnn_cell.py`.
-
