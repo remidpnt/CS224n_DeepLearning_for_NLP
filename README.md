@@ -14,7 +14,7 @@ These assignments are related to neural networks application for Natural languag
 
 
 
-  ![alt text](https://github.com/remidpnt/CS224n_DeepLearning_for_NLP/dependency.png)
+  ![alt text](https://github.com/remidpnt/CS224n_DeepLearning_for_NLP/blob/master/dependency.png)
 ### Installation to run these python programs
 
 I used python 2.7 to run these files, with Anaconda.
