@@ -9,7 +9,7 @@ http://web.stanford.edu/class/cs224n/
 
 These assignments are related to neural networks application for Natural language processing.
 
-  * First assignment code: As an introduction, we will implement some basic functions to run a neural network. We will then use theses functions to produce some GloVe vector to encode some words to vectors using their context in a corpus.
+  * **First assignment code:** As an introduction, we will implement some basic functions to run a neural network. We will then use theses functions to produce some GloVe vector to encode some words to vectors using their context in a corpus.
 
 ### Installation to run these python programs
 
