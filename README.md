@@ -5,13 +5,13 @@ These files are my solution for the CS224n course from Stanford University 2017.
 http://web.stanford.edu/class/cs224n/
 
 
-### Overview
+### General overview
 
 These assignments are related to neural networks application for Natural language processing.
 
-  * Je teste
- 
-### Installation
+  * First assignment code: As an introduction, we will implement some basic functions to run a neural network. We will then use theses functions to produce some GloVe vector to encode some words to vectors using their context in a corpus.
+
+### Installation to run these python programs
 
 I used python 2.7 to run these files, with Anaconda.
 Please note that if you have a gpu, you should install tensorflow-gpu to save time (especially for assignment 2). Make sure you have downloaded the dataset before you run the files.
